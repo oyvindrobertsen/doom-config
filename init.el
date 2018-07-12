@@ -117,7 +117,7 @@
       ;scala             ; java, but good
        sh                ; she sells (ba|z)sh shells on the C xor
       ;solidity          ; do you need a blockchain? No.
-      ;swift             ; who asked for emoji variables?
+       swift             ; who asked for emoji variables?
        web               ; the tubes
 
        ;; Applications are complex and opinionated modules that transform Emacs
