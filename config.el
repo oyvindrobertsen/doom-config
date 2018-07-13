@@ -8,5 +8,3 @@
 (def-package! flycheck-flow
   :when (featurep! :feature syntax-checker)
   :after js2-mode)
-
-(add-hook 'magit-mode-hook #'magit-todos-mode)
